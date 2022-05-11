@@ -41,11 +41,12 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1112465134.758894815" name="LinkedListHomework.c" rcbsApplicability="disable" resourcePath="src/LinkedListHomework.c" toolsToInvoke="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654.749362555">
-						<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654.749362555" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1112465134.1983618715" name="tree.h" rcbsApplicability="disable" resourcePath="src/tree.h" toolsToInvoke=""/>
+					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1112465134.546811251" name="strtok.c" rcbsApplicability="disable" resourcePath="src/strtok.c" toolsToInvoke="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654.101358183">
+						<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654.101358183" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="LinkedListHomework.c|LinkedListHomeworkMain.c|Lecture5Macros.c|Lecture4LinkedList.c|Lecture4String.c|Lab02.c|Lecture3.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
+						<entry excluding="strtok.c|TreeHomeworkTree.c|TreeHomeworkMain.c|tree.h|LinkedListHomework.c|LinkedListHomeworkMain.c|Lecture5Macros.c|Lecture4LinkedList.c|Lecture4String.c|Lab02.c|Lecture3.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
