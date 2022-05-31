@@ -42,11 +42,11 @@
 						</toolChain>
 					</folderInfo>
 					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1112465134.1983618715" name="tree.h" rcbsApplicability="disable" resourcePath="src/tree.h" toolsToInvoke=""/>
-					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1112465134.1444332540" name="stack_asarray1.c" rcbsApplicability="disable" resourcePath="src/stack_asarray1.c" toolsToInvoke="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654.292004127">
-						<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654.292004127" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1112465134.1991779728" name="rawio.c" rcbsApplicability="disable" resourcePath="src/rawio.c" toolsToInvoke="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654.93770495">
+						<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654.93770495" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1854418654"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="stack_asarray1.c|strtok_main.c|strtok.c|TreeHomeworkTree.c|TreeHomeworkMain.c|tree.h|LinkedListHomework.c|LinkedListHomeworkMain.c|Lecture5Macros.c|Lecture4LinkedList.c|Lecture4String.c|Lab02.c|Lecture3.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
+						<entry excluding="rawio.c|stack_asarray1.c|strtok_main.c|strtok.c|TreeHomeworkTree.c|TreeHomeworkMain.c|tree.h|LinkedListHomework.c|LinkedListHomeworkMain.c|Lecture5Macros.c|Lecture4LinkedList.c|Lecture4String.c|Lab02.c|Lecture3.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
